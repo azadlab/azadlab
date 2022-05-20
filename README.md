@@ -44,7 +44,7 @@ Repositories about some of my Research and Innovation work in Machine Learning, 
 <a href="https://www.youtube.com/channel/UCZqRXqO7FsVqnv5jP4p4hXg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://instagram.com/azadlab" target="_blank">
+<a href="https://instagram.com/azaditech" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/azadlab" target="_blank">
