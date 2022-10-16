@@ -28,7 +28,13 @@ Repositories about some of my Research and Innovation work in Machine Learning, 
 
 ## Blog Posts
 
-<a href="https://azad-wolf.medium.com" target="_blank"> Learning Articles in ML/DL </a>
+<a href="https://azad-wolf.medium.com">Learning Articles in ML/DL (Medium.com)</a>
+
+<br/>
+
+<a href="https://azadwolf.substack.com">Learning Articles in ML/DL (Substack)</a>
+
+<br/>
 
 ## Links  
 <div align="center">
